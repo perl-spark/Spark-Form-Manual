@@ -1,6 +1,5 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
-        
+          Dist::Zillafied
           First version, released on an unsuspecting world.
-
