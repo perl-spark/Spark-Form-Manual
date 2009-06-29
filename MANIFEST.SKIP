@@ -6,3 +6,5 @@ MANIFEST\.SKIP
 ^blib
 ^.git
 ^.cvsignore
+^dist.ini
+^Spark-Form-Manual-*

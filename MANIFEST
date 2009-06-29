@@ -1,7 +1,0 @@
-Build.PL
-Changes
-lib/Spark/Form/Manual.pm
-lib/Spark/Form/Manual/Tutorial/GettingStarted.pm
-MANIFEST
-README
-t/00-load.t

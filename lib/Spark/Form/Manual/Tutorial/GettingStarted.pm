@@ -1,7 +1,6 @@
 package Spark::Form::Manual::Tutorial::GettingStarted;
 
-1;
-__END__
+# ABSTRACT: Getting Started with Spark::Form
 
 =head1 INSTALLATION
 
@@ -267,3 +266,7 @@ Same as before.
 L<Spark::Form> - the forms module that started it all
 L<Spark::Form::Manual> - root of this dist
 L<Task::Spark::Form>
+
+=cut
+
+1;

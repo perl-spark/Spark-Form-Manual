@@ -1,24 +1,13 @@
 package Spark::Form::Manual;
 
+# ABSTRACT: How to use Spark::Form
+
 use warnings;
 use strict;
-
-our $VERSION = '0.01';
-
-1;
-__END__
-
-=head1 NAME
-
-Spark::Form::Manual - How to use Spark::Form
 
 =head1 TUTORIAL
 
 =head2 Part 1: L<Getting started|Spark::Form::Manual::Tutorial::GettingStarted>
-
-=head1 VERSION
-
-Version 0.01
 
 =head1 AUTHOR
 
@@ -42,3 +31,6 @@ This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
 
 =cut
+
+1;
+
