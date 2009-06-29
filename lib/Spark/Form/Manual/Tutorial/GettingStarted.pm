@@ -5,7 +5,7 @@ __END__
 
 =head1 INSTALLATION
 
-Spark::Form comes in a number of parts. It is recommended you install L<Bundle::Spark::Form> which will grab them all.
+Spark::Form comes in a number of parts. It is recommended you install L<Task::Spark::Form> which will grab them all.
 
 =head1 Diving in: My first form
 
@@ -266,3 +266,4 @@ Same as before.
 
 L<Spark::Form> - the forms module that started it all
 L<Spark::Form::Manual> - root of this dist
+L<Task::Spark::Form>
